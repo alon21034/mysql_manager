@@ -1,0 +1,3 @@
+[submodule "dealer_api"]
+	path = dealer_api
+	url = git@git.skywatch24.com:skywatch/dealer_api.git
